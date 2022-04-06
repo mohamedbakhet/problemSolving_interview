@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="AntonAndDanik.cpp" />
     <ClCompile Include="BearAndBigBrother.cpp" />
+    <ClCompile Include="Team.cpp" />
     <ClCompile Include="VanyaAndFence.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

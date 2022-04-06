@@ -1,3 +1,4 @@
+/*
 #include<iostream>
 using namespace std;
 int main() {
@@ -13,4 +14,5 @@ int main() {
 	cout << counter;
 	return 0;
 }
+*/
 
