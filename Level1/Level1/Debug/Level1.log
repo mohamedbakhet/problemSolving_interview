@@ -1,4 +1,1 @@
-﻿  BearAndBigBrother.cpp
-  Team.cpp
-  Generating Code...
-  Level1.vcxproj -> E:\Debi\problemSolving_interview\Level1\Debug\Level1.exe
+﻿LINK : fatal error LNK1104: cannot open file 'E:\education\Debi\problemSolving_interview\Level1\Debug\Level1.exe'

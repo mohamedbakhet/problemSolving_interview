@@ -1,0 +1,11 @@
+﻿  BoyOrGirl.cpp
+E:\education\Debi\problemSolving_interview\Level1\Level1\BoyOrGirl.cpp(8): warning C4018: '<': signed/unsigned mismatch
+E:\education\Debi\problemSolving_interview\Level1\Level1\BoyOrGirl.cpp(12): warning C4018: '<': signed/unsigned mismatch
+E:\education\Debi\problemSolving_interview\Level1\Level1\BoyOrGirl.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  PetyaAndStrings.cpp
+  Generating code
+  98 of 102 functions (96.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Level1.vcxproj -> E:\education\Debi\problemSolving_interview\Level1\Release\Level1.exe
